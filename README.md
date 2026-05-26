@@ -1,62 +1,76 @@
-# Study Materials Repository
+# Repositorio de Materiales de Estudio
 
-Welcome to this collection of study materials from our Master's program. This repository has been created to support collaborative learning and help classmates prepare for activities, assignments, and exams.
+Bienvenido a esta colección de materiales de estudio de nuestro programa de Máster. Este repositorio ha sido creado para apoyar el aprendizaje colaborativo y ayudar a los compañeros a prepararse para actividades, tareas y exámenes.
 
-## 📚 Purpose
+## 📚 Propósito
 
-This repository serves as a centralized resource for:
-- **Learning support** – Consolidated notes, summaries, and explanations of course concepts
-- **Activity preparation** – Materials to help you prepare for class activities and discussions
-- **Homework assistance** – Reference materials and guided examples for assignments
-- **Exam preparation** – Study guides and practice materials to help you succeed
+Este repositorio sirve como recurso centralizado para:
+- **Apoyo al aprendizaje** – Apuntes consolidados, resúmenes y explicaciones de conceptos del curso
+- **Preparación de actividades** – Materiales para ayudarte a prepararte para actividades en clase y discusiones
+- **Apoyo en tareas** – Materiales de referencia y ejemplos guiados para asignaciones
+- **Preparación para exámenes** – Guías de estudio y materiales de práctica para ayudarte a tener éxito
 
-## ⚙️ About This Content
+## ⚙️ Acerca de Este Contenido
 
-**Most of the material in this repository has been created with the assistance of AI tools.** This includes:
-- Study notes and summaries
-- Explanations of complex concepts
-- Practice exercises and examples
-- Curated learning resources
+**La mayoría del material en este repositorio ha sido creado con la asistencia de herramientas de IA.** Esto incluye:
+- Apuntes y resúmenes de estudio
+- Explicaciones de conceptos complejos
+- Ejercicios de práctica y ejemplos
+- Recursos de aprendizaje curados
 
-The AI-generated content has been reviewed and adapted to ensure accuracy and relevance to our curriculum. However, it is meant to **supplement, not replace**, lectures, official course materials, and your own critical thinking.
+El contenido generado por IA ha sido revisado y adaptado para garantizar precisión y relevancia para nuestro currículo. Sin embargo, está diseñado para **complementar, no reemplazar**, las clases, materiales oficiales del curso y tu propio pensamiento crítico.
 
-### Important Notes on AI-Generated Content
+### Notas Importantes sobre Contenido Generado por IA
 
-- **AI content limitations:** AI-generated material may contain inaccuracies, oversimplifications, or outdated information. Critical review and verification are essential.
-- **Verify before using:** Always cross-check information with official course materials, textbooks, lectures, and your instructors before relying on it for assignments or exams.
-- **Curriculum basis:** These materials are based on the curriculum as of the current academic term. Course content may be updated; verify if materials remain current.
+- **Limitaciones del contenido de IA:** El material generado por IA puede contener inexactitudes, simplificaciones excesivas o información desactualizada. La revisión crítica y verificación son esenciales.
+- **Verifica antes de usar:** Siempre verifica la información con materiales oficiales del curso, libros de texto, clases y tus instructores antes de confiar en ella para tareas o exámenes.
+- **Base del currículo:** Estos materiales se basan en el currículo del período académico actual. El contenido del curso puede actualizarse; verifica si los materiales siguen siendo actuales.
 
-## 🎯 How to Use This Repository
+## 🎯 Cómo Usar Este Repositorio
 
-1. **Browse** the organized folders to find materials relevant to your courses
-2. **Review** the content as supplementary learning material
-3. **Contribute** by adding your own notes, resources, or corrections (see Contributing section)
-4. **Discuss** any questions or improvements with your classmates through issues or pull requests
+1. **Explora** las carpetas organizadas para encontrar materiales relevantes a tus cursos
+2. **Revisa** el contenido como material de aprendizaje complementario
+3. **Contribuye** añadiendo tus propios apuntes, recursos o correcciones (ver sección Contribuciones)
+4. **Discute** cualquier pregunta o mejora con tus compañeros a través de issues o pull requests
 
-## 📂 Repository Structure
+## ⚠️ Descargo de Responsabilidad Importante
 
-```
-.
-├── Course-1/
-│   ├── notes/
-│   ├── exercises/
-│   └── resources/
-├── Course-2/
-│   ├── notes/
-│   ├── homework/
-│   └── resources/
-└── General/
-    └── study-tips/
-```
+- Estos materiales **no son documentos oficiales del curso** y no deben considerarse como sustituto de las clases o materiales oficiales
+- Aunque se han hecho esfuerzos para garantizar la precisión, pueden existir errores
+- Siempre verifica la información con materiales oficiales del curso e instructores
+- Utiliza estos recursos de manera responsable y de acuerdo con las políticas de integridad académica de tu institución
 
-*(Adjust the structure based on your actual organization)*
+### Integridad Académica
 
-## ⚠️ Important Disclaimer
+**Estos materiales son solo para estudio personal.** Utilizarlos para enviar como tu propio trabajo viola las políticas de integridad académica. Siempre:
+- Completa tus propias tareas de manera independiente
+- Cita las fuentes cuando referencias estos materiales
+- Comprende los conceptos en lugar de simplemente copiar respuestas
+- Sigue las políticas de tu institución sobre colaboración y uso de recursos
 
-- These materials are **not official course documents** and should not be considered a substitute for lectures or official materials
-- While efforts have been made to ensure accuracy, errors may exist
-- Always verify information with official course materials and your instructors
-- Use these resources responsibly and in accordance with your institution's academic integrity policies
+## 🤝 Contribuciones
+
+¡Animamos las contribuciones! Si tienes:
+- Correcciones o mejoras a materiales existentes
+- Recursos adicionales o explicaciones
+- Ejercicios de práctica o consejos de estudio
+
+Por favor:
+1. Haz un fork de este repositorio
+2. Crea una rama para tus cambios
+3. Envía un pull request con una descripción clara
+
+## 📝 Licencia
+
+Estos materiales se comparten con fines educativos entre compañeros de clase. Por favor, respeta los derechos de propiedad intelectual y utiliza estos materiales solo para propósitos de estudio legítimos.
+
+## 💬 ¿Preguntas o Problemas?
+
+¿Encontraste un error o tienes sugerencias? Por favor abre un issue o comunícate con los mantenedores del repositorio.
+
+---
+
+**¡Feliz estudio!** 📖✨- Use these resources responsibly and in accordance with your institution's academic integrity policies
 
 ### Academic Integrity
 
